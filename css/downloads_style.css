@@ -52,3 +52,22 @@ a:hover{
 			text-align: center;
 			font-size:18px
 		}
+
+/* Media Queries*/
+
+@media screen and (max-width: 480px) {
+  
+
+h1{
+	font-size: 1.5em;
+}
+
+
+
+#main-footer{
+
+	width: 100%;
+
+}
+
+}

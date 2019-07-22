@@ -63,3 +63,44 @@ a:hover{
 			text-align: center;
 			font-size:18px
 		}
+
+/* Media Queries*/
+
+@media screen and (max-width: 480px) {
+  
+
+h1{
+	font-size: 1.5em;
+}
+
+
+iframe{
+	width: 100%;
+}
+
+
+.container-1{
+	width: 100%;
+
+}
+
+input[type=text]{
+	width: 100%;
+	
+}
+
+input[type=Email]{
+	width: 100%;
+	
+}
+input[type=submit]{
+	width: 100%;
+
+}
+#main-footer{
+
+	width: 100%;
+
+}
+
+}
