@@ -1,0 +1,65 @@
+body{
+	
+	background-image: url(https://backgrounddownload.com/wp-content/uploads/2018/09/aesthetic-background-1920x1080-2.jpg); 
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	color: aqua;
+	font-family: 'Aldrich'; font-size: 18px
+	line-height:1.6em;
+	margin:0;
+
+	
+}
+
+
+h1{
+	color: aqua;
+}
+
+nav a.active{
+
+	color: aqua;
+
+}
+
+
+.container-1{
+	width: 20%;
+	text-align: left;
+}
+
+.box-1{
+	background-color:indigo;
+	border: 5px purple solid;
+	padding: 5px
+
+}
+
+.box-1 h3{
+
+	font-style: italic;
+	text-decoration:underline;
+}
+
+
+li a{
+	color: aqua;
+
+
+
+}
+
+a:hover{
+	color:purple;
+}
+
+#main-header{
+			text-align:center;
+			background-color:indigo;
+			padding:10px;
+		}
+
+#main-footer{
+			text-align: center;
+			font-size:18px
+		}
