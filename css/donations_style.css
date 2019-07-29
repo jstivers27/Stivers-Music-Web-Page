@@ -2,7 +2,7 @@ body{
 	
 	background-image: url(https://i.pinimg.com/originals/97/cb/2b/97cb2b1a0ac3fa2f03881a6ea74e1d56.jpg); 
 	background-repeat: no-repeat;
-	background-size: cover;
+	background-size: 100% 100%;
 	color: aqua;
 	font-family: 'Aldrich'; font-size: 18px
 	line-height:1.6em;
