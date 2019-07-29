@@ -67,6 +67,28 @@ a{
 			
 		}
 
-		/* Media Queries*/
+	
+
+}
+
+@media screen and (max-width: 480px) {
+  
+
+h1{
+	font-size: 1.5em;
+}
+
+
+.container-2{
+	width: 100%;
+
+}
+
+
+#main-footer{
+
+	width: 100%;
+
+}
 
 }
