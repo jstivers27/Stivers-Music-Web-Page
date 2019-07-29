@@ -1,6 +1,6 @@
 body{
 	
-	background-image: url(https://i.imgur.com/yuY9rJD.png); 
+	background-image: url(https://i.pinimg.com/originals/97/cb/2b/97cb2b1a0ac3fa2f03881a6ea74e1d56.jpg); 
 	background-repeat: no-repeat;
 	background-size: cover;
 	color: aqua;
@@ -43,12 +43,6 @@ a:hover{
 			padding:10px;
 		}
 
-#main-footer{
-			
-			
-			text-align: center;
-			font-size:18px
-		}
 
 		
 @media screen and (max-width: 480px) {
@@ -60,10 +54,6 @@ h1{
 
 
 
-#main-footer{
 
-	width: 100%;
-
-}
 
 }
