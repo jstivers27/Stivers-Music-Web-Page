@@ -2,7 +2,7 @@ body{
 	
 	background-image: url(https://thumbs.gfycat.com/ClearCarelessBeagle-small.gif); 
 	background-repeat: no-repeat;
-	background-size: auto;
+	background-size: contain;
 	color: aqua;
 	font-family: 'Aldrich'; font-size: 18px
 	line-height:1.6em;
