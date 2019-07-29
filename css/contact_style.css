@@ -7,11 +7,8 @@ body{
 	font-family: 'Aldrich'; font-size: 18px
 	line-height:1.6em;
 	margin:0;
-    width: 100%;
-    height: 100%;
-    margin: 0px;
-    padding: 0px;
-    overflow-x: hidden;
+    
+
 }
 
 	
@@ -52,19 +49,14 @@ a:hover{
 
 
 @media screen and (max-width: 480px) {
-  
+ 
+.mobile{display: block;}
 
 h1{
 	font-size: 1.5em;
 }
 
 
-
-#main-footer{
-
-	width: 100%;
-
-}
 
 }
 
