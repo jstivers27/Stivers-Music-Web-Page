@@ -2,7 +2,7 @@ body{
 	
 	background-image: url(https://backgrounddownload.com/wp-content/uploads/2018/09/aesthetic-background-1920x1080-2.jpg); 
 	background-repeat: no-repeat;
-	background-size: 100% 100%;
+	background-size: cover;
 	color: aqua;
 	font-family: 'Aldrich'; font-size: 18px
 	line-height:1.6em;
