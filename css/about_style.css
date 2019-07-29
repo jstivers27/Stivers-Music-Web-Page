@@ -2,7 +2,7 @@ body{
 
 	background-image: url(https://i.warosu.org/data/lit/img/0065/86/1432524459879.png);  
 	background-repeat: no-repeat;
-	background-size: 100% 100%;
+	background-size: cover;
 	color: aqua;
 	font-family: 'Aldrich'; font-size: 18px
 	line-height:1.6em;
